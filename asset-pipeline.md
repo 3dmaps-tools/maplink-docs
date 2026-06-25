@@ -1,0 +1,3 @@
+# Asset Pipeline
+
+Coming soon.
