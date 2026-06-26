@@ -33,6 +33,7 @@ export default defineConfig({
       {
         text: 'Resources',
         items: [
+          { text: 'Project Samples', link: '/samples' },
           { text: 'Changelog', link: '/changelog' },
         ]
       }
